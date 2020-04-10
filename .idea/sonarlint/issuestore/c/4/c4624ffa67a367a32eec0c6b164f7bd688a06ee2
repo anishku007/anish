@@ -1,0 +1,8 @@
+
+Lsquid:S1481"0Remove this unused "rightLength" local variable.(Çõ«ðÿÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Œ‰Éù
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(é©á§
++squid:S1700e"Rename field "power"(„µ¦ä
+[squid:S1854"?Remove this useless assignment to local variable "rightLength".(Çõ«ðÿÿÿÿÿ
+isquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ö«¹×8û½©Õˆ.
